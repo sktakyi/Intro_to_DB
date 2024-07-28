@@ -1,3 +1,6 @@
+import mysql.connector
+from mysql.connector import errorcode
+
 def create_database(cursor):
     try:
         cursor.execute(
