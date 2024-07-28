@@ -8,5 +8,6 @@ SELECT
     EXTRA 
 FROM 
     INFORMATION_SCHEMA.COLUMNS 
-WHERE  
+WHERE 
+    TABLE_SCHEMA = 'alx_book_store' 
     TABLE_NAME = 'books';
