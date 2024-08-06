@@ -2,4 +2,4 @@
 SQL Introduction
 
 ##
-MySQL, Python-SQL, SQLAlchemy
+MySQL, Python-SQL, SQLAlchemy...
